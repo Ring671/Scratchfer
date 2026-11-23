@@ -7,3 +7,5 @@ Scratchfer includes a workspace, categorized block library, live code preview, p
 Scratchfer is designed to work offline and Scratchfer does not require AI, an internet connection, an API or a cloud service. All code generation is handled locally through Scratchfers programming logic and translation engine.
 
 Scratchfer blends the simplicity of programming with the flexibility of real programming languages, making Scratchfer a useful tool for beginners learning programming, experienced developers prototyping logic and anyone who wants to create software visually.
+
+Currently unreleased.
